@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Speedometer</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="latitude">Ширина</string>
+    <string name="longitude">Долгота</string>
+    <string name="speed">Скорость</string>
+    <string name="units">(км/ч)</string>
+    <string name="distanse">Расстояние</string>
+    <string name="empty">0</string>
+    <string name="units_meters">(м)</string>
+    <string name="Clear">Сброс</string>
+</resources>
